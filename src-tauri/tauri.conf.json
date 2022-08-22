@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "desktop-image-editor",
+    "productName": "desktop_image_editor",
     "version": "0.1.0"
   },
   "tauri": {
